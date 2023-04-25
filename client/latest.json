@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "changelog": "First Full windows GUI Build",
-  "Download": "https://github.com/shandralor/PeerBrain/releases/download/0.0.1/peerbrain.exe"
+  "version": "0.0.2",
+  "changelog": "Bug Fixes plus OTP/MFA support",
+  "Download": "https://github.com/PeerBrain/gui-client/releases/download/0.0.2/peerbrain.exe"
 }
